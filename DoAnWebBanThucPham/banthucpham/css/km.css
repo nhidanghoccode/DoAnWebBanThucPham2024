@@ -1,0 +1,9 @@
+.fruite-item .text-danger {
+    color: #FF4500; /* Màu đỏ cam nổi bật */
+}
+
+.fruite-item .text-secondary {
+    font-size: 14px;
+    color: #888888;
+    text-decoration: line-through;
+}
